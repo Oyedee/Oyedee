@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I’m **Hamid Oyempemi (Oyedee)**
 
 **Mobile Engineer** | Flutter · Dart · Kotlin  
-Based in Nigeria | 📫 [LinkedIn](https://www.linkedin.com/in/hamid-oyempemi-gmnse-828a22115/) · X [@poraayy](https://twitter.com/poraayy)
+Based in Nigeria | 📫 [LinkedIn](https://www.linkedin.com/in/hamid-oyempemi-gmnse-828a22115/) · X [@poraayy](https://twitter.com/poraayy) · [WakaTime](https://wakatime.com/a-look-back-at-2025/018cc978-2477-4bdf-88ae-e5633bbd7d29/tdhtgppxkb)
 
 ---
 
